@@ -1,3 +1,4 @@
+ > \mielston_02_responsive_web_layout\mod07-5_day_010_practice\banner-with-photo-gallery
 # banner-with-photo-gallery
 Practice Day Project with simple HTML &amp; CSS
 ## Project Requirements Doc Link:
