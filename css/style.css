@@ -284,3 +284,13 @@ body {
 .photo:hover::before {
   opacity: 1;
 }
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  padding: 20px 0;
+}
+footer span {
+  color: var(--primary-color);
+}
